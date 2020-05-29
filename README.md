@@ -17,3 +17,7 @@ Sample of a deployment
 ## How To Contribute
 
 Sample to contribute
+
+### Copyright
+
+Copyright 2020 Harold Test
