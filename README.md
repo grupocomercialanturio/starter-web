@@ -16,7 +16,7 @@ Sample of a deployment
 
 ## How To Contribute
 
-Sample to contribute
+Plase fork this repository and then issue pull request to review.
 
 ### Copyright
 
