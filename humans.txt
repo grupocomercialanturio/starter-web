@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Harold Castillo	harold.castillo@test.com	@haroldjcastillo
 
 # THANKS
 
