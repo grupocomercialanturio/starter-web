@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work.
 
 Adding a line for rebasing example, more changes from myfeature branch.
 
+This is a new line stash things.
+
 ## Introduction
 
 This an example of an introduction.
