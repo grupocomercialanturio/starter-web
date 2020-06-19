@@ -22,4 +22,4 @@ Plase fork this repository and then issue pull request to review.
 
 ### Copyright
 
-Copyright 2020 Harold Test
+Copyright 2020 Harold Test. All rights reserved.
